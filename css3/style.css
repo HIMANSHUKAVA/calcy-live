@@ -1,0 +1,31 @@
+body
+{
+    background-color: aliceblue;
+}
+#celcy
+{
+    width: 100%;
+    height: auto;
+    padding: 15px;
+    margin: auto;
+}
+.spo input[type="text"]
+{
+    width: 100%;
+    height: auto;
+    padding: 10px;
+    text-align:right;
+}
+#btn
+{
+    width: 322px;
+    height: auto;
+    
+}
+
+.table-responsive {
+    overflow-x: auto;
+}
+
+
+
